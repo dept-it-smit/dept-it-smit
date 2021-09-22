@@ -1,6 +1,6 @@
 Assets
 
-# About Sikkim Manipal Indtitute of Technology
+# About Sikkim Manipal Institute of Technology
 
 The first view of Sikkim Manipal Institute of Technology (SMIT) is awe inspiring and more than enough to motivate any one to be a part of this beautiful, resort like campus nestling on the banks of River Teesta in the verdant hills of East Sikkim.
 
@@ -18,6 +18,7 @@ The Department of Information Technology at Sikkim Manipal Institute of Technolo
 | Instagram | https://bit.ly/f2k-insta |
 | Facebook | https://bit.ly/f2k-fb |
 | Email | forum2k.deptit.smit@gmail.com |
+| Linktree | https://linktr.ee/forum2k |
 
 
 
