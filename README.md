@@ -21,8 +21,6 @@ The Department of Information Technology at Sikkim Manipal Institute of Technolo
 | Linktree | https://linktr.ee/forum2k |
 
 
-
-
 <br><br><br><br>
 <center>
 
